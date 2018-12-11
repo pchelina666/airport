@@ -15,7 +15,7 @@ for ($a = 1; $a <= 5; ++$a)
 	// Элемент списка и ссылка на страницу с номером $a
 		echo '<li><a href='.pathfile. 'page' . $a . '.html > Страница'. $a . "</a></li> \n"; 
 	}	
-echo '</ul>';
+echo 'хехе </ul>';
 ?>
 </div>
 </body>
