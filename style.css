@@ -19,7 +19,10 @@ body{width:100%;}
 .container-fluid{
 	width:100%;
 }
-.menu {background: #fff;height: 60px;width:100%;}
+.menu {
+	background: #fff;
+	height: 60px;
+	width:100%;}
 .menu-list {
 	display: flex;
 	justify-content: space-between;
